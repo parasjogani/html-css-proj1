@@ -12,6 +12,6 @@ Time taken to complete this project :
 
 08 : 00 hours
 
-### [Live Link Of Project](html-css-proj1.netlify.app)
+### [Live Link Of Project](https://html-css-proj1.netlify.app)
 ![Image](https://img.shields.io/badge/HTML-CSS-green)
 
